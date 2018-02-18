@@ -1,0 +1,29 @@
+@font-face {
+
+font-family: MyriadPro-Regular;
+
+src: url(fonts/MyriadPro-Regular.ttf ) format("truetype");
+
+}
+
+.nav a {
+	font-family: MyriadPro-Regular;
+}
+
+.navi a
+
+{
+	font-family: MyriadPro-Regular;
+}
+
+.container4 p, a
+
+{
+	font-family: MyriadPro-Regular;
+}
+
+.container5 p, a
+
+{
+	font-family: MyriadPro-Regular;
+}

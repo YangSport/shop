@@ -1,0 +1,285 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+
+a:link {
+	color: #D72020;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+
+a:visited {
+	color: #D72020;
+}
+
+body {
+	background: url(img/Background.png) no-repeat center;
+	font: 13px;
+	font-family: MyriadPro;
+	color: #333333;
+}
+
+#content {
+	margin: 0 auto;
+	background: #ffffff;
+	width: 1663px;
+	text-align: left;
+}
+
+#header {
+	height: 901px;
+	background: url(img/home.jpeg) no-repeat center bottom;
+}
+
+#logo {
+	margin: 130px;
+	padding-top: 48px;
+}
+
+#menu
+{
+	border-left: 2px solid #ffffff;
+	width: 779px;
+	height: 80px;
+	float:right;
+	padding-top: 15px; 
+}
+
+.nav {
+	float:right;
+	padding-top: 43px; 
+}
+
+.nav li: last-child {margin-right: 0;}
+
+
+.nav a {
+	text-transform: uppercase;
+	font-size: 25px;
+	font-family: MyriadPro;
+	color: #FFFFFF;
+	text-decoration: none;
+
+}
+
+.nav li {
+	float: right;
+	margin-right: 65px;
+	list-style-type: none;
+}
+
+#menu a {
+	float: left;
+	width: 99px;
+	height: 46px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 50px;
+}
+
+#menu a:hover {
+	color: #D72020;
+	text-decoration: underline;
+}
+
+#right {
+	height: 1273px;  
+	
+
+}
+
+#centr {
+	height: 856px;
+    width: 1314px;
+    background: url(img/kros.png) no-repeat center;
+}
+
+
+#rig {
+	height: 468px;
+    width: 1651px;
+	background: url(img/hell.png)  no-repeat right;
+	
+}
+
+
+
+#aa
+
+{
+	height: 583px;  
+	width: 1457px;
+	background: url(img/SHOP.png) no-repeat right;
+}
+
+
+#lil {
+	height: 356px;
+    width: 2939px;
+	background: url(img/lil.png) no-repeat center;
+}
+
+#ab
+
+{
+	height: 442px;  
+	width: 1365px;
+	background: url(img/adik.png) no-repeat right;
+}
+
+#ac
+
+{
+	height: 1218px;
+	width: 323px;
+	background: url(img/ken.png) no-repeat right;
+}
+
+#left{
+
+}
+
+#lol {	
+	height: 582px;
+    width: 712px;
+	background: url(img/nig.png) no-repeat center bottom;
+}
+
+#pep {
+	height: 1094px;
+    width: 1954px;
+	background: url(img/2.png) no-repeat center bottom;
+}
+
+#jb {
+	height: 605px;
+    width: 2902px;
+	background: url(img/3.png) no-repeat center bottom;
+}
+
+#footer{
+	margin: 0 auto;
+	background: #ffffff;
+	width: 1663px;
+	height: 901px;
+	text-align: left;
+
+}
+
+#u10{
+	height: 474px;
+    width: 427px;
+	background: url(img/10.png) no-repeat right bottom;
+}
+
+#u11{
+	height: 485px;
+    width: 864px;
+	background: url(img/11.png) no-repeat right bottom;
+}
+
+#u12{
+		height: 606px;
+    width: 2164px;
+	background: url(img/12.png) no-repeat center bottom;
+}
+
+#u13{
+		height: 477px;
+    width: 2981px;
+	background: url(img/13.png) no-repeat center bottom;
+}
+
+#u14{
+	height: 513px;
+    width: 562px;
+	background: url(img/14.png) no-repeat right bottom;
+}
+
+#u15{
+	height: 475px;
+    width: 909px;
+	background: url(img/15.png) no-repeat right bottom;
+}
+
+#u16{
+	height: 513px;
+    width: 2170px;
+	background: url(img/16.png) no-repeat center bottom;
+}
+
+#u17{
+		height: 457px;
+    width: 2999px;
+	background: url(img/17.png) no-repeat center bottom;
+}
+
+#bg
+{
+	height: 151px;
+	width: 1710px;
+	background: url(img/bg.png) no-repeat center bottom;
+}
+
+.navi {
+	height: 85px;
+	width: 1200px;
+	float:left;
+	padding-top: 70px; 
+}
+
+.navi li: last-child {margin-right: 0;}
+
+
+.navi a {
+	text-transform: uppercase;
+	font: 25px MyriadPro, sans-serif;
+	color: #000000;
+	text-decoration: none;
+
+}
+
+.navi li {
+	float: right;
+	margin-right: 60px;
+	list-style-type: none;
+}
+
+div.container4 {
+    height: 10px;
+    position: relative }
+
+div.container4 p {
+	height: 85px;
+	font-size: 70px;
+	text-align: center;
+	color: #ffffff;
+    margin: 0;
+    position: absolute;
+    top: 156px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+div.container4 a {
+	height: 0px;
+	width: 1200px;
+	font-size: 34px;
+	text-align: center;
+	color: #FF0000;
+    margin: 0;
+    position: absolute;
+    top: 215px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
